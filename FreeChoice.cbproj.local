@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.836,C:\Users\z\OneDrive\Рабочий стол\Наука\FreeChoice\FreeChoicePCH1.h=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,C:\Users\z\OneDrive\Рабочий стол\Наука\FreeChoice\Unit1.h=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,C:\Users\z\OneDrive\Рабочий стол\Наука\FreeChoice\FreeChoice.cbproj=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,C:\Users\z\OneDrive\Рабочий стол\Наука\FreeChoice\Unit1.dfm=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.587,=C:\Users\z\OneDrive\Рабочий стол\Наука\FreeChoice\MTRand.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,C:\Users\z\OneDrive\Рабочий стол\Наука\FreeChoice\Unit1.cpp=C:\Users\z\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.925,=C:\Users\z\OneDrive\Рабочий стол\Наука\FreeChoice\MTRand.hpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="FreeChoice.cpp"/>
+    <File Path="FreeChoicePCH1.h"/>
+    <File Path="MTRand.hpp"/>
+    <File Path="MTRand.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
